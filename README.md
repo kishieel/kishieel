@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishieel&show_icons=true&theme=radical&rank_icon=github" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishieel&theme=radical&layout=compact" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kishieel&show_icons=true&theme=dracula&rank_icon=github" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishieel&theme=dracula&layout=compact" width="50%" />
 
 <!--
 **kishieel/kishieel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
