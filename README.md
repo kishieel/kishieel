@@ -11,6 +11,7 @@ I'm a passionate software engineer who enjoys coding and exploring new technolog
 
 I enjoy sharing my knowledge and insights through writing. Below, you'll find a collection of articles I've authored on various topics related to software development and technology. I hope you find these articles helpful and inspiring.
 
+- **[15/06/2024]** [CouchGO! — Enhancing CouchDB with Query Server Written in Go](https://dev.to/kishieel/couchgo-enhancing-couchdb-with-query-server-written-in-go-304n)
 - **[25/05/2024]** [Securing CouchDB with Keycloak Behind Nginx Reverse Proxy](https://medium.com/@kishieel/securing-couchdb-with-keycloak-behind-nginx-reverse-proxy-part-1-74b84ab016bf)
 - **[20/03/2024]** [Shell Tools I Can’t Life Without](https://medium.com/@kishieel/shell-tools-i-cant-life-without-44bdd208a4ad)
 - **[17/03/2024]** [Introduction to Federated Machine Learning with Example](https://medium.com/@kishieel/introduction-to-federated-machine-learning-with-example-272958ee4ddd)
